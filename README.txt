@@ -2,11 +2,7 @@ C_part is the Clion folder for the C part of the Assignment
 
 codeCpp11 is the Clion folder for the C++ part of the Assignment
 
-C++_screencast.mp4 is the screencast for the C++ part
-C_screencast.mp4 is the screencast for the C part
-
 C Program
-
 
 Main.c - Main file that calls the other files
 Main.h - Header for Main.c
